@@ -1,0 +1,11 @@
+.not_found {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.not_found h1 {
+  font-size: 80px;
+  text-align: center;
+  text-transform: uppercase;
+}
